@@ -18,7 +18,8 @@ public class PersonService {
     @Handler
     @Transactional
     public void save(String name){
-        Person person = new Person(name);
+        Person person = new Person();
+        person.setName(name);
 
         personRepository.save(person);
     }
