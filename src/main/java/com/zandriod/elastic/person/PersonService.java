@@ -1,4 +1,4 @@
-package com.zandriod.elastic;
+package com.zandriod.elastic.person;
 
 import org.apache.camel.Handler;
 import org.springframework.beans.factory.annotation.Autowired;

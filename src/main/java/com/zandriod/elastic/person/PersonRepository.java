@@ -1,4 +1,4 @@
-package com.zandriod.elastic;
+package com.zandriod.elastic.person;
 
 import org.springframework.data.elasticsearch.repository.ElasticsearchRepository;
 

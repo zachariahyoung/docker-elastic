@@ -1,4 +1,4 @@
-package com.zandriod.elastic;
+package com.zandriod.elastic.person;
 
 import lombok.Data;
 import org.springframework.data.annotation.Id;
